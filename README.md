@@ -26,17 +26,25 @@ an introduction to enkf
 - Localization
   
   Distance-Dependent Filtering of Background Error Covariance Estimates in an Ensemble Kalman Filter - Hamill, 2001
+  
   Exploring the need for localization in ensemble data assimilation using a hierarchical ensemble filter (GGF) - Anderson, 2007
+  
   Localization and Sampling Error Correction in Ensemble Kalman Filter Data Assimilation (SEC) - Anderson, 2012
+  
   Empirical Localization of Observation Impact in Ensemble Kalman Filters (ELF), Anderson and Lei, 2013
 
 - Inflation
   - adaptive inflation
+ 
     An adaptive covariance inflation error correction algorithm for ensemble filters - Anderson, 2007
+    
     Spatially and temporally varying adaptive covariance inflation for ensemble filters - Anderson, 2009
+    
     Enhanced Adaptive Inflation Algorithm for Ensemble Filters - Gharamti Mohamod, 2018
     
+    
    Ensemble Data Assimilation with the NCEP Global Forecast System (additive inflation) - Whitaker, 2008
+   
    Evaluating Methods to Account for System Errors in Ensemble Data Assimilation (RTPS) - Whitaker and Hamill, 2012
 
 
